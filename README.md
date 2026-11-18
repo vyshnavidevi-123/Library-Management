@@ -2,7 +2,6 @@
 
 A console-based library system built to practise **Object-Oriented Design**, **Data Structures & Algorithms**, **unit testing**, and **CI**.
 
-![CI](../../actions/workflows/ci.yml/badge.svg)
 
 ## Features
 - Add books and magazines, register students and faculty
