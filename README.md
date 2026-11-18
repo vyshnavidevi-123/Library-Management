@@ -48,7 +48,4 @@ JUnit 5 tests cover borrowing, loan limits, fines, reservation priority, binary 
 ## CI
 Every push and pull request triggers GitHub Actions to build the project and run all tests (`mvn -B verify`).
 
-## Possible improvements
-- Save data to a file or SQLite database
-- Add a REST API with Spring Boot
-- Add search by author
+
